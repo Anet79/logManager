@@ -11,11 +11,11 @@ It includes a logger class that allows you to log messages at various logging le
  
  
  <p align="center">
-  <img src="C:\Users\Anetg\Downloads\Screenshot 2023-05-14 173601.png?raw=true">
+  <img src="app/src/main/res/drawable/ic_log_managar.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="C:\Users\Anetg\Downloads\Screenshot 2023-05-14 173727.png">
+  <img src="app/src/main/res/drawable/ic_logcat.png?raw=true">
 </p>
  
  
