@@ -7,7 +7,10 @@ import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.anet.LogManager.MainActivity;
+
 import com.anet.upload.LogManager;
+import com.anet.uploadfiles.R;
 
 
 public class MainActivity extends AppCompatActivity  {
@@ -44,7 +47,11 @@ public class MainActivity extends AppCompatActivity  {
             @Override
             public void onClick(View v) {
 
-               LogManager.i("dfcsfsff");
+               LogManager.i("Activity class");
+               LogManager.d("You started DEBUG");
+               LogManager.d("MyTag","You started DEBUG");
+
+
             }
         });
     }
