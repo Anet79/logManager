@@ -1,6 +1,8 @@
 # logManager
+[![](https://jitpack.io/v/Anet79/logManager.svg)](https://jitpack.io/#Anet79/logManager)
 
- A simple Android Library that contains all the logs printed to Logcat in the project. 📄
+
+ A simple Android Library that contains all the logs printed to Logcat project. 📄
  
  ## Description
  
